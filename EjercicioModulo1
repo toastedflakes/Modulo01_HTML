@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <!-- Este es mi primer comentario de dos líneas
+        Aprendiendo a documentar mi código con OpenBootcamp -->
+        <div>
+            <h3>Lista desordenada</h3>
+            <ul>
+                <li><a href="https://www.youtube.com/watch?v=ifP82U38jp4"></a>I Made History Mr Krabs Overdoses on Ketamine World Record</li>
+                <li><a href="https://www.youtube.com/watch?v=ekMVSQBlSOo"></a>I Made Chess History In The Biggest Tournament</li>
+                <li><a href="https://www.youtube.com/watch?v=2oHaAzS5LZA"></a>Dildo God</li>
+            </ul>
+        </div>
+    </body>
+</html>
